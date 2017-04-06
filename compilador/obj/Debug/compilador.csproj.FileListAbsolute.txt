@@ -1,0 +1,17 @@
+c:\users\rafael\documents\visual studio 2015\Projects\compilador\compilador\bin\Debug\compilador.exe.config
+c:\users\rafael\documents\visual studio 2015\Projects\compilador\compilador\obj\Debug\compilador.csprojResolveAssemblyReference.cache
+c:\users\rafael\documents\visual studio 2015\Projects\compilador\compilador\obj\Debug\compilador.Properties.Resources.resources
+c:\users\rafael\documents\visual studio 2015\Projects\compilador\compilador\obj\Debug\compilador.csproj.GenerateResource.Cache
+c:\users\rafael\documents\visual studio 2015\Projects\compilador\compilador\bin\Debug\compilador.exe
+c:\users\rafael\documents\visual studio 2015\Projects\compilador\compilador\bin\Debug\compilador.pdb
+c:\users\rafael\documents\visual studio 2015\Projects\compilador\compilador\obj\Debug\compilador.exe
+c:\users\rafael\documents\visual studio 2015\Projects\compilador\compilador\obj\Debug\compilador.pdb
+D:\compilador-master\compilador\bin\Debug\compilador.exe.config
+D:\compilador-master\compilador\obj\Debug\compilador.csprojResolveAssemblyReference.cache
+D:\compilador-master\compilador\obj\Debug\compilador.Form1.resources
+D:\compilador-master\compilador\obj\Debug\compilador.Properties.Resources.resources
+D:\compilador-master\compilador\obj\Debug\compilador.csproj.GenerateResource.Cache
+D:\compilador-master\compilador\bin\Debug\compilador.exe
+D:\compilador-master\compilador\bin\Debug\compilador.pdb
+D:\compilador-master\compilador\obj\Debug\compilador.exe
+D:\compilador-master\compilador\obj\Debug\compilador.pdb
